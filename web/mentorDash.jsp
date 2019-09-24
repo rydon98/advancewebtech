@@ -1,7 +1,6 @@
 <%-- 
-    Document   : newjsp
-    Created on : 28 Aug, 2019, 10:39:41 AM
-    Author     : MK's PC
+    Chinmaya Mishra
+    Mentor Dashboard page
 --%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
